@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/whrwhr446/.android/build-cache/bb729755be5e81026e335b334cc0d0ef04b01e07/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/whrwhr446/AndroidStudioProjects/StrongBinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e799dbf2ac7a4cd4c237e35211e6eec2959e7c7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/whrwhr446/.android/build-cache/85764b7ed8b71257b4185dfb6425f02e1791afb5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/whrwhr446/AndroidStudioProjects/StrongBinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_092a87db1f711e2595d2e3ac5d3027947b7758d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/whrwhr446/AndroidStudioProjects/StrongBinder/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/whrwhr446/AndroidStudioProjects/StrongBinder/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_34d6b9fa0d7f99d7f650e2fd8250f57054df2e43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/whrwhr446/.android/build-cache/6217b89fba75de32d7442f7c917f1fe500adbb43/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/whrwhr446/AndroidStudioProjects/StrongBinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_76f2df969cb6d3d21d5abaac1b08294b3f02aef1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/whrwhr446/AndroidStudioProjects/StrongBinder/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="226ea4bcc734d0519afce38654d7f7a7b261ff8b">
+        <dex dex="/Users/whrwhr446/AndroidStudioProjects/StrongBinder/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ddff4f4ea53525f64fac21e3aba620eab3d3c7e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/whrwhr446/.android/build-cache/1a31f3d4c6215838a91a794b910c84c5c193cbe6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/whrwhr446/AndroidStudioProjects/StrongBinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_19a58730654e1720a16952ca545bfe644d6ee785/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/whrwhr446/.android/build-cache/5c5828fa97c0df8b2f598e41e17e4fc184ab6efb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/whrwhr446/AndroidStudioProjects/StrongBinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_56bb5fcde862e114c8bcbc547b14af1e05aa43de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/whrwhr446/.android/build-cache/0eb3d42842cd1bca5c62a53ef5beca20a943ac4b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/whrwhr446/AndroidStudioProjects/StrongBinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f288c021f139eab238ecb18fc30ff0ca7ab256aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/whrwhr446/.android/build-cache/d2ea873bb50ddb72f5eabb14ccda2ce4167cfa04/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/whrwhr446/AndroidStudioProjects/StrongBinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_59f81176be33da7223fcbfa03de8b082ee2f0663/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/whrwhr446/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/whrwhr446/AndroidStudioProjects/StrongBinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_740b0258b3affc62c63cd1acaac31864cf7e6188/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/whrwhr446/.android/build-cache/4e08e641d64767d21bba5647c7b8a1dac792bad7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/whrwhr446/AndroidStudioProjects/StrongBinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d424d056faf55824a1c2789f0cab8111796846c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/whrwhr446/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/whrwhr446/AndroidStudioProjects/StrongBinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_6671aafd9ae3b7cf64e72b2106328a31188f21cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/whrwhr446/.android/build-cache/576118df13a7e6f2651f71e26fc84b97eda7e2ac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/whrwhr446/AndroidStudioProjects/StrongBinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4dd76d305abd485e3bf7a6c5d32085d2317aeeed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/whrwhr446/.android/build-cache/c707342a3fc6d2e68d707067661c6b3069716f89/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/whrwhr446/AndroidStudioProjects/StrongBinder/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3f2f60a4fcbe4751e06d35685c90c7f66f045dcd/classes.dex" />
+    </item>
+
+</items>
